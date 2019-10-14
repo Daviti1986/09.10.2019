@@ -1,9 +1,7 @@
  <?php
 
-require_once("./database.php");
-require_once("./car1.php");
-require_once("./sql.php");
-require_once("./car.php");
+inclued("./myapp/database.php")
+use  myapp\database;
 
 $db=Database::getInstance();
 

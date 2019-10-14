@@ -1,0 +1,11 @@
+{
+    "name": "daviti/myapp",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Davit",
+            "email": "dato_pkhakadze@yahoo.com"
+        }
+    ],
+    "require": {}
+}
